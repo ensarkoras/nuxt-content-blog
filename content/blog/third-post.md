@@ -1,12 +1,12 @@
 ---
-title: My Third blog post
+title: My 3. blog post
 description: Welcome to my third blog using the content module
 slug: third-post
 img: blog-1.jpeg
 ---
 
 
-# My third blog post
+# My 3. blog post
 
 Welcome to my third blog post using content module
  

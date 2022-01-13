@@ -1,5 +1,5 @@
 ---
-title: My second blog post
+title: My 2. blog post
 description: Welcome to my second blog post using the content module.
 slug: second-post
 img: blog-2.jpeg
