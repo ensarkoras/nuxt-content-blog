@@ -6,7 +6,7 @@ img: blog-1.jpeg
 ---
 
 
-# My first blog post
+# My 1. blog post
 
 Welcome to my first blog post using content module
  
